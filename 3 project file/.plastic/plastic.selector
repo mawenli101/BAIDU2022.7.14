@@ -1,0 +1,4 @@
+repository "BAI@ssl://baidu2022-7-10@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
